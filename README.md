@@ -22,5 +22,8 @@ Repositori ini berisi aplikasi web Flask sederhana yang berfungsi sebagai API un
 3. Receive JSON responses with color predictions.
 4. If you run on local you can use local server example `http://127.0.0.1:5000/` but in this case i use endpoint from google cloud
 
+### Important
+1. You can use my model or your model to predict (CNN) , here my model `https://drive.google.com/file/d/1-0BJrIl491gnEulSv4-0j3TSj6ZuruK4/view?usp=sharing`
+
 ## License
 This project is licensed under the MIT License
