@@ -13,7 +13,7 @@ This repository contains a simple Flask web application that serves as an API fo
 - flask_cors
 
 ### Installation
-1. Clone the repository: `-`
+1. Clone the repository: `https://github.com/ibnuarz/ColorRecognition_API_TensorFlow.git`
 2. Install dependencies: `pip install -r requirements.txt`
 
 ### Usage
