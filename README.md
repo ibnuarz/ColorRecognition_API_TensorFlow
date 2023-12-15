@@ -1,6 +1,6 @@
 # Color Recognition API with Flask, Google Cloud and TensorFlow
 
-This repository contains a simple Flask web application that serves as an API for color recognition. The application uses pre-trained TensorFlow models to predict the color of objects in uploaded images.
+This repository contains a simple Flask web application that serves as an API for color recognition. The application uses my pre-trained CNN TensorFlow models to predict the color of objects in uploaded images.
 
 ## Getting Started
 
