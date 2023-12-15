@@ -1,6 +1,6 @@
-# Color Recognition API with Flask and TensorFlow
+# Color Recognition API with Flask, Google Cloud and TensorFlow
 
-This repository contains a simple Flask web application that serves as an API for color recognition. It utilizes a pre-trained TensorFlow model to predict the color of objects in uploaded images.
+Repositori ini berisi aplikasi web Flask sederhana yang berfungsi sebagai API untuk pengenalan warna. Aplikasi ini menggunakan model TensorFlow yang telah dilatih sebelumnya untuk memprediksi warna objek dalam gambar yang diunggah. 
 
 ## Getting Started
 
@@ -20,6 +20,7 @@ This repository contains a simple Flask web application that serves as an API fo
 1. Run the Flask application: `python precolor.py`
 2. Upload an image file using the provided HTML form or make POST requests to the `/` endpoint.
 3. Receive JSON responses with color predictions.
+4. If you run on local you can use local server example `http://127.0.0.1:5000/` but in this case i use endpoint from google cloud
 
 ## License
 This project is licensed under the MIT License
